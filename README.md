@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
