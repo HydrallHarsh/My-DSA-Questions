@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
