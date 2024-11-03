@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0812-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
