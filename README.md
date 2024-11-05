@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2580-circular-sentence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
