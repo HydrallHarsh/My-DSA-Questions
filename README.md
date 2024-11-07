@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
