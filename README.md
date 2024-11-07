@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0190-reverse-bits) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
 |  |
 | ------- |
