@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3394-minimum-array-end) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
