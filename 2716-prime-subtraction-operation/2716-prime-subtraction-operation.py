@@ -1,6 +1,5 @@
 class Solution:
     def primeSubOperation(self, nums: List[int]) -> bool:
-        primes = [ ]
         n = 1000
         tf = [True for i in range(n)]
         p = 2
@@ -9,10 +8,6 @@ class Solution:
                 for i in range(p * p , n ,p):
                     tf[i] = False
             p += 1
-        
-        # for p in range(2,n):
-        #     if tf[p] == True:
-        #         primes.append(p)
         # Just using Sieve of Eratostherns for Prime number list till 1000 O(log(logn)) for this
 
         # looping over nums checking for largest smallest prime number that make nums[i]
