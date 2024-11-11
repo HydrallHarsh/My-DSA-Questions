@@ -10,9 +10,9 @@ class Solution:
                     tf[i] = False
             p += 1
         
-        for p in range(2,n):
-            if tf[p] == True:
-                primes.append(p)
+        # for p in range(2,n):
+        #     if tf[p] == True:
+        #         primes.append(p)
         # Just using Sieve of Eratostherns for Prime number list till 1000 O(log(logn)) for this
 
         # looping over nums checking for largest smallest prime number that make nums[i]
@@ -23,7 +23,7 @@ class Solution:
             bound = nums[i] - prev
             lar = 0
             for j in reversed(range(2,bound)):
-                if j in primes:
+                if tf[j] == True:
                     lar = j
                     break
 
