@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0620-not-boring-movies) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
