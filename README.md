@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
