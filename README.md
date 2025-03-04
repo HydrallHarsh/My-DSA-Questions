@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0326-power-of-three) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
