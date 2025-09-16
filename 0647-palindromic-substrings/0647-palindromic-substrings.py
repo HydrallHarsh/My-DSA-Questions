@@ -1,11 +1,10 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        l = []
+        count = 0
         n = len(s)
         for i in range(n):
             for j in range(n):
-                temp = s[i:j+1]
-                if(temp == temp[::-1] and temp != ""):
-                    l.append(temp)
+                if(s[i:j+1] == s[i:j+1][::-1] and s[i:j+1] != ""):
+                    count += 1
 
-        return len(l)
+        return count
