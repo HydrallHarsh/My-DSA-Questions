@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3451-string-compression-iii) |
+| [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -196,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0036-valid-sudoku) |
+| [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0155-min-stack) |
+| [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
