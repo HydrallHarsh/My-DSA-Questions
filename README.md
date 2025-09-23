@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0165-compare-version-numbers](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0647-palindromic-substrings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0049-group-anagrams) |
+| [0165-compare-version-numbers](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
