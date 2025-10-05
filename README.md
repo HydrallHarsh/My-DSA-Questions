@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Counting
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
