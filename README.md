@@ -101,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3451-string-compression-iii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,4 +226,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2716-prime-subtraction-operation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
