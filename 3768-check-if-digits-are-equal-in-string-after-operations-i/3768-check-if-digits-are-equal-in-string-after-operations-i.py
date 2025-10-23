@@ -1,6 +1,5 @@
 class Solution(object):
     def hasSameDigits(self, s):
-        n = len(s)
         while(len(s)>2):
             new_s = ""
             for i in range(len(s)-1):
