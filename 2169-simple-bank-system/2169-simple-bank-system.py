@@ -1,14 +1,10 @@
 class Bank(object):
 
     def __init__(self, balance):
-        self.balance = balance
-        print(self.balance)
-        
+        self.balance = balance        
 
     def transfer(self, account1, account2, money):
-        # print(self.balance[account1-1] >= money,account1 <= len(self.balance),account2 <= len(self.balance))
         if(account1 <= len(self.balance) and account2 <= len(self.balance) and self.balance[account1-1] >= money):
-            # print("abc")
             self.balance[account1-1] -= money
             self.balance[account2-1] += money
             return True
