@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
