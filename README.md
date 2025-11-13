@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1580-shuffle-the-array](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1580-shuffle-the-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
