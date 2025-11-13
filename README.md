@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2058-concatenation-of-array](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2169-simple-bank-system](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/HydrallHarsh/My-DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HydrallHarsh/My-Java-DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
